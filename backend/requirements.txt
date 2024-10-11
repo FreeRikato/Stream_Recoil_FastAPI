@@ -1,0 +1,5 @@
+fastapi[standard]
+uvicorn
+langchain-groq
+python-dotenv
+websockets
